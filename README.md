@@ -10,7 +10,7 @@ The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://ww
 Number | Title             | Solution  | Difficulty       | Tag
 -------|-------------------|-----------|------------------|------------
 [1](https://leetcode.com/problems/two-sum/) | Two Sum | [1](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_1.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
-[9](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | [1](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_9.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
+[9](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | [9](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_9.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 
 
 #### Legend
