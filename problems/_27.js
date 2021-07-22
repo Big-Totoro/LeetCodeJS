@@ -8,22 +8,14 @@ let removeElement = function (nums, val) {
         return 0;
     }
 
-    let l = 0;
-    let r = nums.length;
-
-    while (l < r) {
-        if (nums[l] === val) {
-            let temp = nums[r - 1];
-            nums[r - 1] = nums[l];
-            nums[l] = temp;
-
-            --r;
-        } else {
-            ++l;
+    let i = 0;
+    for (let j = 0; j < nums.length; ++j) {
+        if (nums[j] !== val) {
+            nums[i++] = nums[j];
         }
     }
 
-    return l;
+    return i;
 };
 
 module.exports = removeElement;

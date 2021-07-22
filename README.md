@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 4 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 0 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 4
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 5 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 0 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 5
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -13,6 +13,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [9](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | [9](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_9.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | [11](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_11.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [27](https://leetcode.com/problems/remove-element/) | Remove Element | [27](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_27.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[88](https://leetcode.com/problems/remove-element/) | Remove Element | [99](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_88.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 
 #### Legend
 Easy | Medium | Hard
