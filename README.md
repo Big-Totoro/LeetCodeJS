@@ -15,6 +15,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [27](https://leetcode.com/problems/remove-element/) | Remove Element | [27](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_27.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | [88](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_88.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | [118](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_118.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[136](https://leetcode.com/problems/single-number/) | Single Number | [136](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_136.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Bit Manipulation
 
 #### Legend
 Easy | Medium | Hard
