@@ -18,4 +18,6 @@ test("test11", () => {
     node22.next = node23;
     node23.next = node01;
 
+    const result = getIntersectionNode(node11, node21);
+    expect(result).toStrictEqual(node01);
 });
