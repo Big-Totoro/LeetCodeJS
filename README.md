@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 12 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 1 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 13
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 13 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 1 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 14
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -21,6 +21,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [155](https://leetcode.com/problems/min-stack/) | Min Stack | [155](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_155.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Stack
 [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Intersection of Two Linked Lists | [160](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_160.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList
 [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Sum II - Input array is sorted | [167](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_167.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[171](https://leetcode.com/problems/excel-sheet-column-number/) | Excel Sheet Column Number | [171](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_171.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | [191](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_191.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Bit Manipulation
 
 #### Legend
