@@ -16,4 +16,4 @@ const titleToNumber = function(columnTitle) {
     return  result;
 };
 
-module.exports = titleToNumber;
+module.exports = { titleToNumber };
