@@ -13,16 +13,18 @@
  * @return {ListNode}
  */
 const reverseList = function(head) {
-    let currentNode = head;
-    let prevNode = null;
-    while (currentNode != null) {
-        let tempNode = currentNode.next;
-        currentNode.next = prevNode;
-        prevNode = currentNode;
-        currentNode = tempNode;
+    return reverse(null, head);
+};
+
+function reverse(prev, current) {
+    if (current == null) {
+        return prev;
     }
 
-    return prevNode;
-};
+    const next = current.next;
+    current.next = prev;
+
+    return reverse(current, next);
+}
 
 module.exports = { ListNode, reverseList }
