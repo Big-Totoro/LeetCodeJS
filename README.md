@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 16 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 2 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 18
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 17 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 2 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 19
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -27,6 +27,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [202](https://leetcode.com/problems/happy-number/) | Happy Number | [202](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_202.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | [206](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_206.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList
 [217](https://leetcode.com/problems/contains-duplicate/) | Contains Duplicate | [217](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_217.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[234](https://leetcode.com/problems/palindrome-linked-list/) | Palindrome Linked List | [234](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_234.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList
 
 #### Legend
 Easy | Medium | Hard
