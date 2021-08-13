@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 19 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 2 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 21
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 20 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 2 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 22
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -30,6 +30,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [234](https://leetcode.com/problems/palindrome-linked-list/) | Palindrome Linked List | [234](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_234.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked List | [237](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_237.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | LinkedList
 [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [242](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_242.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
+[243](https://leetcode.com/problems/shortest-word-distance/) | Shortest Word Distance | [243](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_243.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 
 #### Legend
 Easy | Medium | Hard
