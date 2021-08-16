@@ -32,6 +32,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [242](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_242.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [243](https://leetcode.com/problems/shortest-word-distance/) | Shortest Word Distance | [243](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_243.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [246](https://leetcode.com/problems/strobogrammatic-number/) | Strobogrammatic Number | [246](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_246.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
+[252](https://leetcode.com/problems/meeting-rooms/) | Meeting Rooms | [252](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_252.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 
 #### Legend
 Easy | Medium | Hard
