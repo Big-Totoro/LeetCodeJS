@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 25 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 2 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 27
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 26 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 2 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 28
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -36,6 +36,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [257](https://leetcode.com/problems/binary-tree-paths/) | Binary Tree Paths | [257](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_257.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree
 [258](https://leetcode.com/problems/add-digits/) | Add Digits | [258](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_258.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [266](https://leetcode.com/problems/palindrome-permutation/) | Palindrome Permutation | [266](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_266.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
+[268](https://leetcode.com/problems/missing-number/) | Missing Number | [268](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_268.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 
 #### Legend
 Easy | Medium | Hard
