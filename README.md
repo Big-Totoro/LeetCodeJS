@@ -39,6 +39,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [268](https://leetcode.com/problems/missing-number/) | Missing Number | [268](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_268.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 [283](https://leetcode.com/problems/move-zeroes/) | Move Zeroes | [283](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_283.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [292](https://leetcode.com/problems/nim-game/) | Nim Game | [292](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_292.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
+[293](https://leetcode.com/problems/flip-game/) | Flip Game | [293](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_293.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 
 #### Legend
 Easy | Medium | Hard
