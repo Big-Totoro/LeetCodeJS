@@ -40,6 +40,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [283](https://leetcode.com/problems/move-zeroes/) | Move Zeroes | [283](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_283.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [292](https://leetcode.com/problems/nim-game/) | Nim Game | [292](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_292.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [293](https://leetcode.com/problems/flip-game/) | Flip Game | [293](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_293.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
+[349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [349](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_349.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 
 #### Legend
 Easy | Medium | Hard
