@@ -44,6 +44,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [344](https://leetcode.com/problems/reverse-string/) | Reverse String | [344](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_344.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II | [350](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_350.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [387](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_387.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
+[389](https://leetcode.com/problems/find-the-difference/) | Find The Difference | [389](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_389.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 
 #### Legend
 Easy | Medium | Hard
