@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 35 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 2 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 37
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 36 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 2 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 38
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -48,6 +48,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | [409](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_409.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [412](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_412.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | [448](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_448.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
+[461](https://leetcode.com/problems/hamming-distance/) | Hamming Distance | [461](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_461.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 
 #### Legend
 Easy | Medium | Hard
