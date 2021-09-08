@@ -9,15 +9,6 @@ const hasPath = function (maze, start, destination) {
         return false;
     }
 
-    const visited = [];
-    for (let i = 0; i < maze.length; ++i) {
-        visited[i] = [];
-        for (let j = 0; j < maze[i].length; j++) {
-            visited[i].push(false);
-        }
-    }
-    visited[start[0]][start[1]] = true;
-
     const directions = [{r: -1, c: 0}, {r: 1, c: 0}, {r: 0, c: -1}, {r: 0, c: 1}];
     const queue = [];
     queue.push(start);
@@ -34,7 +25,7 @@ const hasPath = function (maze, start, destination) {
             let row = startRow + direction.r;
             let col = startCol + direction.c;
 
-            while (isValid(maze, row, col) && maze[row][col] === 0) {
+            while (isValid(maze, row, col) && maze[row][col] <= 0) {
                 row += direction.r;
                 col += direction.c;
             }
@@ -42,8 +33,8 @@ const hasPath = function (maze, start, destination) {
             row -= direction.r;
             col -= direction.c;
 
-            if (isValid(maze, row, col) && !visited[row][col]) {
-                visited[row][col] = true;
+            if (isValid(maze, row, col) && maze[row][col] != -1) {
+                maze[row][col] = -1;
                 queue.unshift([row, col]);
             }
         }
