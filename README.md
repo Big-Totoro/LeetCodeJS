@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 40 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 3 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 43
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 41 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 4 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 45
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -47,11 +47,13 @@ Number | Title             | Solution  | Difficulty       | Tag
 [389](https://leetcode.com/problems/find-the-difference/) | Find The Difference | [389](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_389.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | [409](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_409.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [412](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_412.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
+[443](https://leetcode.com/problems/string-compression/) | String Compression | [443](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_443.js) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | String
 [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | [448](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_448.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [461](https://leetcode.com/problems/hamming-distance/) | Hamming Distance | [461](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_461.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 [463](https://leetcode.com/problems/island-perimeter/) | Island Perimeter | [463](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_463.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [476](https://leetcode.com/problems/number-complement/) | Number Complement | [476](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_476.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 [490](https://leetcode.com/problems/the-maze/) | The Maze | [490](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_490.js) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DFS
+[500](https://leetcode.com/problems/keyboard-row/) | Keyboard Row | [500](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_500.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 
 #### Legend
 Easy | Medium | Hard
