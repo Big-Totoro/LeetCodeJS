@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 41 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 4 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 45
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 41 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 5 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 46
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -54,6 +54,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [476](https://leetcode.com/problems/number-complement/) | Number Complement | [476](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_476.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | BitManipulation
 [490](https://leetcode.com/problems/the-maze/) | The Maze | [490](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_490.js) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DFS
 [500](https://leetcode.com/problems/keyboard-row/) | Keyboard Row | [500](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_500.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
+[505](https://leetcode.com/problems/the-maze-ii/) | The Maze II | [505](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_505.js) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | HashTable
 
 #### Legend
 Easy | Medium | Hard
