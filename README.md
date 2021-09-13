@@ -56,7 +56,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [499](https://leetcode.com/problems/the-maze-iii/) | The Maze III | [499](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_490.js) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | DFS
 [500](https://leetcode.com/problems/keyboard-row/) | Keyboard Row | [500](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_500.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [505](https://leetcode.com/problems/the-maze-ii/) | The Maze II | [505](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_505.js) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DFS
-[509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [509](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_509.js) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Math
+[509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [509](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_509.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 
 #### Legend
 Easy | Medium | Hard
