@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 45 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 5 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 50
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 46 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 5 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 51
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -60,6 +60,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | [557](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_557.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 [559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Maximum Depth of N-ary Tree | [559](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_559.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Tree
 [561](https://leetcode.com/problems/array-partition-i/) | Array Partition I | [561](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_559.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[566](https://leetcode.com/problems/reshape-the-matrix/) | Reshape the Matrix | [566](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_566.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 
 #### Legend
 Easy | Medium | Hard
