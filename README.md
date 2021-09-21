@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 46 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 6 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 52
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 46 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 7 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 53
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -40,6 +40,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [283](https://leetcode.com/problems/move-zeroes/) | Move Zeroes | [283](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_283.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [292](https://leetcode.com/problems/nim-game/) | Nim Game | [292](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_292.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [293](https://leetcode.com/problems/flip-game/) | Flip Game | [293](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_293.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
+[300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | [300](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_300.js) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | DP
 [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [349](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_349.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
 [344](https://leetcode.com/problems/reverse-string/) | Reverse String | [344](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_344.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | String
 [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II | [350](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_350.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | HashTable
