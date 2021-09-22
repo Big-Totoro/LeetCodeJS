@@ -3,7 +3,7 @@
 ### Result
 Easy | Medium | Hard | Overall
 -------|---------|-------|-------|
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 46 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 7 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 53
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 46 | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 7 | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 0 | 54
 
 The "CTCI" tag tags the problems from [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) book.
 
@@ -13,6 +13,7 @@ Number | Title             | Solution  | Difficulty       | Tag
 [9](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | [9](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_9.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Math
 [11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | [11](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_11.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [27](https://leetcode.com/problems/remove-element/) | Remove Element | [27](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_27.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
+[45](https://leetcode.com/problems/jump-game-ii/) | Jump Game II | [45](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_45.js) | ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) | Greedy
 [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | [88](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_88.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | [118](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_118.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Array
 [136](https://leetcode.com/probl~~~~ems/single-number/) | Single Number | [136](https://github.com/Big-Totoro/LeetCodeJS/blob/main/problems/_136.js) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | Bit Manipulation
